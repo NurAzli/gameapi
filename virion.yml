@@ -1,6 +1,6 @@
 name: gameapi
 version: 4.1.1
-antigen: xenialdan\gameapi
-api: [3.14]
-php: [7.2]
-author: XenialDan
+antigen: nurazli\gameapi
+api: [5.0.0]
+php: [8.2]
+author: NurAzli
