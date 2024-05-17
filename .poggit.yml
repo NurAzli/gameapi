@@ -7,6 +7,6 @@ projects:
     model: virion
     type: library
     libs:
-    - src: thebigsmilexd/apibossbar/apibossbar
+    - src: nurazli/apibossbar/apibossbar
       version: ^0.0.5
 ...
