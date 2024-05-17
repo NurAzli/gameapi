@@ -1,6 +1,6 @@
 <?php
 
-namespace xenialdan\gameapi;
+namespace nurazli\gameapi;
 
 use pocketmine\entity\Entity;
 use pocketmine\item\Item;
@@ -8,7 +8,7 @@ use pocketmine\level\format\io\LevelProvider;
 use pocketmine\level\format\io\LevelProviderManager;
 use pocketmine\level\Level;
 use pocketmine\nbt\tag\CompoundTag;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\plugin\Plugin;
 use pocketmine\Server;
 use pocketmine\utils\Color;
